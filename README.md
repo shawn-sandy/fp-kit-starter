@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with FP.Kit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with FP.KIT Create React App Template [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -31,7 +31,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+(**Removed**) - **Note: this is a one-way operation. Once you `eject`, you can't go back! So we removed it**
+
+**To remove run `npm run eject` from your terminal, now thats on you**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
